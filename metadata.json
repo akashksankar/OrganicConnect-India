@@ -1,0 +1,6 @@
+{
+  "name": "OrganicConnect India",
+  "description": "A community-based organic vegetable marketplace connecting customers, farmers, home garden sellers, outlet managers, delivery partners, and admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
